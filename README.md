@@ -1,7 +1,7 @@
 <h3> Prazer, Gustavo Henrique! </h3>
 
 
-Desenvolvedor Java + Angular em busca de oportunidade profissional. < <strong> HTML </strong> , <strong> CSS </strong> , <strong> JS/TS </strong>  
+Desenvolvedor Java + Angular em busca de oportunidade profissional. <strong> HTML </strong> , <strong> CSS </strong> , <strong> JS/TS </strong>  
 <br><p>Para contato 👇</p>
 
 
